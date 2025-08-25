@@ -37,13 +37,14 @@ O aplicativo é modular, fácil de instalar e não exige privilégios de adminis
 ---
 
 ## Estrutura da instalação
-C:\Users<Usuário>\AppData\Roaming\Automatiza Simples
+C:\Users\<Usuário>\AppData\Roaming\Automatiza Simples
 │
-├── main.exe # Executável principal
-├── assets\ # Ícones e imagens do aplicativo
-│ ├── icone_ico.ico
-│ ├── sol.png
-│ └── lua.png
+├── main.exe               # Executável principal
+├── assets\                # Ícones e imagens do aplicativo
+│   ├── icone_ico.ico
+│   ├── sol.png
+│   └── lua.png
+
 
 ---
 
@@ -86,11 +87,11 @@ C:\Users<Usuário>\AppData\Roaming\Automatiza Simples
 
 - `main.py` → inicia a interface  
 - `gui.py` → interface CustomTkinter e botões  
-- `modules/arquivos.py` → funções de organização de arquivos  
-- `modules/imagens.py` → conversão de imagens em PDF  
-- `modules/pdfs.py` → unificação de PDFs  
-- `modules/qrcode_module.py` → geração de QR Code  
-- `modules/utils.py` → funções auxiliares (caminho de recursos para PyInstaller)  
+- `src/arquivos.py` → funções de organização de arquivos  
+- `src/imagens.py` → conversão de imagens em PDF  
+- `src/pdfs.py` → unificação de PDFs  
+- `src/qrcode_module.py` → geração de QR Code  
+- `src/utils.py` → funções auxiliares (caminho de recursos para PyInstaller)  
 - `assets/` → ícones e imagens  
 
 ---
