@@ -37,6 +37,7 @@ O aplicativo é modular, fácil de instalar e não exige privilégios de adminis
 ---
 
 ## Estrutura da instalação
+```text
 C:\Users\<Usuário>\AppData\Roaming\Automatiza Simples
 │
 ├── main.exe               # Executável principal
@@ -90,7 +91,7 @@ C:\Users\<Usuário>\AppData\Roaming\Automatiza Simples
 - `src/arquivos.py` → funções de organização de arquivos  
 - `src/imagens.py` → conversão de imagens em PDF  
 - `src/pdfs.py` → unificação de PDFs  
-- `src/qrcode_module.py` → geração de QR Code  
+- `src/qr_code.py` → geração de QR Code  
 - `src/utils.py` → funções auxiliares (caminho de recursos para PyInstaller)  
 - `assets/` → ícones e imagens  
 
