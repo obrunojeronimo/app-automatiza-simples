@@ -100,4 +100,4 @@ C:\Users\<Usuário>\AppData\Roaming\Automatiza Simples
 ## Autor
 
 **Bruno Jerônimo**
-[LinkedIn](https://www.linkedin.com/in/bruno-jeronimo/)
+[LinkedIn](https://www.linkedin.com/in/brunojeronimo/)
