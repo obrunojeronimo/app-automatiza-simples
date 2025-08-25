@@ -45,7 +45,7 @@ C:\Users\<Usuário>\AppData\Roaming\Automatiza Simples
 │   ├── icone_ico.ico
 │   ├── sol.png
 │   └── lua.png
-
+```
 
 ---
 
